@@ -1,7 +1,8 @@
-# Almas Aitken
+# Almas Aitken 
 ## Aspiring Frontend Developer
+
 <img src="pic.jpeg" alt="my pic" style="height: 200px; width:200px;"/>
- 
+
 ## Contact information:
 * Location: Nur-Sultan, Kazakhstan
 * Email: almasaitken.career@gmail.com
