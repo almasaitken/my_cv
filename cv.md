@@ -1,6 +1,6 @@
 # Almas Aitken
 ## Aspiring Frontend Developer
-<img src="pic.jpeg" alt="my pic" style="height: 100px; width:100px; display: flex; align-items: right;"/>
+<img src="pic.jpeg" alt="my pic" style="height: 200px; width:200px;"/>
  
 ## Contact information:
 * Location: Nur-Sultan, Kazakhstan
