@@ -13,7 +13,7 @@ I decided to switch from chemistry research path to web development since I want
 
 ## Skills:
 * C, C++, Python, Java fundamentals
-* HTML, CSS, Javascript, Node.js, Express framework basics
+* HTML, CSS, Javascript, Node.js, Express, MongoDB basics
 * Git fundamentals
 * SQL Basics
  
