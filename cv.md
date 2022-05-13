@@ -30,6 +30,7 @@ I decided to switch from chemistry research path to web development since I want
 ## Volunteering experience:
 * (August 2019) - volunteer on the summer chemistry school for middle and high school students from low-income families.
 * (September 2019 - December 2019) - volunteer tutoring math and English for high school students from low-income families.
+* (September 2019 - December 2020) - member of American Chemical Society Student Chapter. Conducting events, quizzes, meetings with professors dedicated to spreading interest in chemistry around students.
 
 ## Languages:
 * Kazakh - Native
