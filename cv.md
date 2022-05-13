@@ -22,8 +22,14 @@ I decided to switch from chemistry research path to web development since I want
 * C language foundations course on [qwasar.io](https://drive.google.com/file/d/1erucI8w7h87iAXXxo2jmiWDs7cT2MJJq/view?usp=sharing)
 * Introduction to Full-Stack Javascript Development on [qwasar.io](https://drive.google.com/file/d/1D0nIH_nPrkCI7qzGaURh1P6gWGq78VJM/view?usp=sharing)
 * Introduction to Python on [Datacamp](https://drive.google.com/file/d/1acAGN9_mANESEIcIyG_lWzl9eT7vhBNr/view?usp=sharing)
+* Database Design and Basic SQL in PostgreSQL [Coursera](https://drive.google.com/file/d/1VWlLcVlhebL0M5i_SpaZ0FmMrBA-YNe-/view?usp=sharing)
+* Introduction to SQL on [Datacamp](https://drive.google.com/file/d/1u-RsBGYrfOnGKkpdjirk0SaRSOEB8Noy/view?usp=sharing)
 * Astana IT University, Information Technology faculty, Software Engineering (2021 - Present). Expected graduation year - 2024
 * Nazarbayev University, School of Sciences and Humanities, Chemistry (2018-2021), withdrawn due to career path change
+
+## Volunteering experience:
+* (August 2019) - volunteer on the summer chemistry school for middle and high school students from low-income families.
+* (September 2019 - December 2019) - volunteer tutoring math and English for high school students from low-income families.
 
 ## Languages:
 * Kazakh - Native
